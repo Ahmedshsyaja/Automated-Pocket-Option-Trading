@@ -1,0 +1,6 @@
+# Required libraries for Pocket Option Bot
+selenium==4.6.0
+numpy==1.25.0
+pandas==2.1.1
+matplotlib==3.8.0
+jupyter==1.0.0
