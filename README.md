@@ -76,7 +76,8 @@ Contributions are always welcome! If you'd like to improve this project:
 
 ## Feedback
 
-If you have any feedback or suggestions, please reach out by raising an issue in the repository or contacting me directly.
+If you have any feedback or suggestions, please reach out by raising an issue in the repository or contacting me directly
+My Email : ahmedshayan1112@gmail.com .
 
 ---
 
