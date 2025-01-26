@@ -38,7 +38,7 @@ Include relevant screenshots of the bot in action or the UI (if available).
 1. Clone the project:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Ahmedshsyaja/Automated-Pocket-Option-Trading.git
    ```
 
 2. Navigate to the project directory:
