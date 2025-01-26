@@ -17,13 +17,6 @@ Currently, no demo is deployed. Run locally to test the bot.
 - **Balance Display:** Fetch and display the current account balance.
 - **Auto Refresh:** Ensure up-to-date account data with periodic refresh.
 - **Custom Timers:** Track remaining time for trades.
-
----
-
-## Screenshots
-
-Include relevant screenshots of the bot in action or the UI (if available).
-
 ---
 
 ## Run Locally
